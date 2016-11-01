@@ -8,7 +8,7 @@ The best way to install Ohana API on your own computer will depend on your
 
 If you're looking to deploy the code from this repo quickly, you can just clone it and proceed with installation:
 
-	git clone git@github.com:codeforamerica/ohana-api.git && cd ohana-api
+	$ git clone git@github.com:codeforamerica/ohana-api.git && cd ohana-api
 
 We welcome contributions from the community, so we recommend that if you're going to be usig Ohana in the long term, that you [fork this repository to your GitHub account][fork] before you proceed. 
 
